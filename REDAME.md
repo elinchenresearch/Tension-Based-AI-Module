@@ -1,3 +1,10 @@
+📦 **Group Information**
+
+- Works across all repositories — system evolves in parallel.  
+- Terms → see **[Autarchic-Lexicon](../Autarchic-Lexicon)**.  
+- Origins → see **[Epistemic-Autarchy](../Epistemic-Autarchy)**.  
+- Each repo = one node in a wider lattice.  
+---
 # Tension-Based AI Module
 
 A small, pluggable engine that detects **structural tension** (context density / unresolved pressure) in signals and uses it to **route, pause, or intervene**—instead of optimizing only for prediction.
